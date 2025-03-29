@@ -58,7 +58,7 @@ We retain your personal information for as long as necessary to fulfill the purp
 - Generated avatars are stored in your account until you delete them or close your account
 - Payment information is not stored by us but is handled by the respective app stores
 
-You can request deletion of your data at any time by contacting us at [YOUR CONTACT EMAIL].
+You can request deletion of your data at any time by contacting us at [bt11.code@gmail.com].
 
 ## HOW WE PROTECT YOUR INFORMATION
 
@@ -117,13 +117,13 @@ Depending on your location, you may have certain rights regarding your personal 
 - Right to data portability: You can request a copy of your data in a machine-readable format.
 - Right to object: You can object to our processing of your information.
 
-To exercise any of these rights, please contact us at [YOUR CONTACT EMAIL].
+To exercise any of these rights, please contact us at [bt11.code@gmail.com].
 
 ## CHILDREN'S PRIVACY
 
 Our App is designed for parents and guardians to upload photographs of their children. We do not knowingly collect personal information directly from children under the age of 13, in compliance with the Children's Online Privacy Protection Act (COPPA).
 
-Parents or guardians who believe we might have collected personal information from their child without consent can contact us at [YOUR CONTACT EMAIL], and we will promptly remove such information.
+Parents or guardians who believe we might have collected personal information from their child without consent can contact us at [bt11.code@gmail.com], and we will promptly remove such information.
 
 ## INTERNATIONAL DATA TRANSFERS
 
@@ -150,12 +150,7 @@ Your continued use of the App after we post changes to the Privacy Policy means 
 
 ## CONTACT US
 
-If you have any questions about this Privacy Policy, please contact us at:
-
-Magic Mirror AI
-[YOUR COMPANY ADDRESS]
-[YOUR CONTACT EMAIL]
-[YOUR PHONE NUMBER]
+If you have any questions about this Privacy Policy, please contact us at bt11.code@gmail.com
 
 ## CONSENT
 
